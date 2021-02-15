@@ -1,0 +1,13 @@
+#text {
+  width: 66vw;
+  height: 3rem;
+  border-radius: 25px;
+}
+
+#text :focus {
+  outline: 'none';
+}
+
+#chat {
+  padding-bottom: 5rem !important; 
+}
